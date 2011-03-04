@@ -77,5 +77,5 @@ int main() {
       print_result(left_count);
     }
   }
-	return 0;
+  return 0;
 }

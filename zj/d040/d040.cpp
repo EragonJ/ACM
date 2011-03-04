@@ -54,6 +54,6 @@ int main() {
     build_order(order, pages_count);
     printf("%d\n", get_shuffle_cycle(order, pages_count));
   }
-	return 0;
+  return 0;
 }
 

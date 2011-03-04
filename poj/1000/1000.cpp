@@ -11,6 +11,6 @@ int main() {
   int a, b;
   cin >> a >> b;
   printf("%d\n", a+b);
-	return 0;
+  return 0;
 }
 

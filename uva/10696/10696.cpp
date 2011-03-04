@@ -30,6 +30,6 @@ int main() {
       printf("f91(%d) = %d\n", n, f91(n));
     }
   }
-	return 0;
+  return 0;
 }
 

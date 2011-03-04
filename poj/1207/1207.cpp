@@ -58,6 +58,6 @@ int main() {
     max_min(&i, &j);
     printf("%d %d %d\n", ori_i, ori_j, process(i, j));
   }
-	return 0;
+  return 0;
 }
 
