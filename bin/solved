@@ -1,0 +1,3 @@
+#!/bin/bash
+count=$(find . | grep ".cpp" | wc -l)  # problems_count
+echo "You have solved : $count problems"

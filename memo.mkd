@@ -1,0 +1,23 @@
+# 解題技巧：#
+
+## 電子哥語錄 ##
+
+1. 如果 code 超過 200 行，那通常是自己想的太複雜了，要重新再想過
+2. 時間複雜度 (Time Complexity) 是比賽中最重要的關鍵 
+3. 技術分析 (Input Data Size = N)，如果 O(N) = 1000000 (10^6) ~ 2000000 (2\*10^6) 約為 1 秒
+4. 2^32 = 4,294,967,296 （背）
+
+## 解題流程 ##
+1. Read the problem description carefully
+2. Induce the sample input and output 
+3. Design a method or algorithm to solve it
+4. Use the technical time and space analysis to check the **TLE**
+5. Write it down
+6. Recheck
+7. Submit and get Yes
+
+## 解題備註 ##
+1. 通常愈簡單的題目其測資會愈機車，會使用邊界值來挑戰你的程式正確與否。（很容易死在這邊卻不知道問題在哪）
+2. 注意測資的範圍，有時候有沒有 -1 差很多 ... （像是 2^32 v.s. 2^32 - 1）
+
+## Keep Updatin ... ##
