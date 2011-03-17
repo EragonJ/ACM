@@ -1,3 +1,13 @@
 # Unsolved Problem List: #
 
+# hw 2 unsolved #
+
+## pku ##
+* 1877
+* 1971
+* 3665
+
 ## uva ##
+* 837
+* 10245
+* 11498
